@@ -1,2 +1,3 @@
 # myBlog
 blog about webdev
+includs info about HTML, CSS, JS and more...
